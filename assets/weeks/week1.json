@@ -1,0 +1,48 @@
+{
+	"storyName": "cat shit",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Meow",
+			"michael",
+			[
+				226,
+				173,
+				113
+			]
+		],
+		[
+			"rawr",
+			"michael",
+			[
+				226,
+				173,
+				113
+			]
+		],
+		[
+			"angy",
+			"angyman",
+			[
+				226,
+				113,
+				113
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "Custom Week"
+}
