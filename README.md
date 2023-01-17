@@ -10,4 +10,4 @@ Goobler
 
 https://gamebanana.com/mods/326270
 
-#####i sincerely thank psych engine for being easier to port to html5 than kade engine 
+##### i sincerely thank psych engine for being easier to port to html5 than kade engine 
